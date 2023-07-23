@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/telezhka.github.io/goit-react-hw-01-components/static/css/main.7acaea2f.css",
-    "main.js": "/telezhka.github.io/goit-react-hw-01-components/static/js/main.54ec3f62.js",
+    "main.js": "/telezhka.github.io/goit-react-hw-01-components/static/js/main.041d6fd0.js",
     "index.html": "/telezhka.github.io/goit-react-hw-01-components/index.html",
     "main.7acaea2f.css.map": "/telezhka.github.io/goit-react-hw-01-components/static/css/main.7acaea2f.css.map",
-    "main.54ec3f62.js.map": "/telezhka.github.io/goit-react-hw-01-components/static/js/main.54ec3f62.js.map"
+    "main.041d6fd0.js.map": "/telezhka.github.io/goit-react-hw-01-components/static/js/main.041d6fd0.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.54ec3f62.js"
+    "static/js/main.041d6fd0.js"
   ]
 }
