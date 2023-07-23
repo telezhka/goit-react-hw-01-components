@@ -1,0 +1,29 @@
+.profile {
+  background-color: bisque;
+  border-color: black;
+  border-radius: 10px;
+  border: 3px solid;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding: 20px;
+}
+.name {
+  font-weight: 600;
+  font-size: 50px;
+  text-align: center;
+}
+.tag {
+  text-align: center;
+}
+.location {
+  text-align: center;
+}
+.stats {
+  display: flex;
+  justify-content: space-between;
+  gap: 15px;
+}
