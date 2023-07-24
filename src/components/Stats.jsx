@@ -1,4 +1,5 @@
 import css from '../styles/Stats.module.css'
+import PropTypes from "prop-types"
 export const Statistics = ({ title, stats }) => (
  <section className={css.statistics}>
   <h2 className={css.title}>{title}</h2>
@@ -11,3 +12,8 @@ export const Statistics = ({ title, stats }) => (
   </ul>
 </section>
 )
+Statistics.propTypes = {
+     id: PropTypes.string,
+     label: PropTypes.string,
+     percentage: PropTypes.string
+}
